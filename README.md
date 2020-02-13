@@ -14,5 +14,6 @@ Based on Udacity AI for Trading Nanodegree
 	- [Hedge funds and market](201.%20Hedge%20funds%20and%20market.ipynb)
 	- [The Capital Assets Pricing Model](202.%20The%20Capital%20Assets%20Pricing%20Model.ipynb)
 	- [Technical Analysis](203.%20Technical%20Analysis.ipynb)
+	- [Efficient Markets Hypothesis and Fundamental Law](204.%20Efficient%20Markets%20Hypothesis%20and%20Fundamental%20Law.ipynb)
 -   Mini-course 3:  Machine Learning Algorithms for Trading
 
