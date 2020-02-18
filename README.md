@@ -16,4 +16,5 @@ Based on Udacity AI for Trading Nanodegree
 	- [Technical Analysis](203.%20Technical%20Analysis.ipynb)
 	- [Efficient Markets Hypothesis and Fundamental Law](204.%20Efficient%20Markets%20Hypothesis%20and%20Fundamental%20Law.ipynb)
 -   Mini-course 3:  Machine Learning Algorithms for Trading
+	- [Reinforcement Learning](301.%20Reinforcement%20Learning.ipynb)
 
